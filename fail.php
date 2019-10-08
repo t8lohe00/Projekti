@@ -1,5 +1,5 @@
 </biv>
-<div id="etusivu">
+<div id="fail">
    <h1>Xerox huoltosivusto</h1>
    <hr>
 
@@ -13,9 +13,10 @@
      			<input type="text" id="salasana" name="" value="" <br>
            <br>
            <br>
+           <h7>Jokin meni pieleen, yritä uudelleen</h7>
+           <br>
            <input type="submit" name="" value="Kirjaudu">
    <br>
-<br>
 <br>
 <br>
 <br>
