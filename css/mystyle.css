@@ -1,0 +1,15 @@
+html,
+		body {
+		  height: 100%;
+		  width: 100%;
+		}
+#header{
+  background-color: lightblue;
+}
+#header2{
+  background-color: blue;
+}
+#footer{
+	margin-top: 740px;
+  background-color: lightgray;
+}

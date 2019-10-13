@@ -1,5 +1,9 @@
-</biv>
-<div id="etusivu">
+<head>
+  <meta charset="utf-8">
+  <title></title>
+  <link rel="stylesheet" href="css/mystyle.css">
+</head>
+<div id="header">
    <h1>Xerox huoltosivusto</h1>
    <hr>
 
@@ -15,33 +19,8 @@
            <br>
            <input type="submit" name="" value="Kirjaudu">
    <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-  Toteutus H. Lohikoski TVT19KMO Projektityö
+
 </biv>
 </body>
 </html>
+	<?php include "footer.php"; ?>
