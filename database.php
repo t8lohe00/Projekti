@@ -1,4 +1,3 @@
-<?php include "menu.php"; ?>
 <?php include "connection.php"; ?>
 	<h2>PHP Database</h2>
 	<p>
@@ -6,8 +5,8 @@
 	</p>
 	<h2>Konemalli</h2>
 	<?php
-$konemalli=$db->query("SELECT * FROM konemalli");
-foreach ($konemalli as $row) {
+$malli=$db->query("SELECT * FROM konemalli");
+foreach ($malli as $row) {
 	echo $row["malli"];
 }
 	 ?>
