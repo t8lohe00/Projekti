@@ -12,4 +12,15 @@ insert into konemalli values(2, "Wc7325");
 insert into konemalli values(3, "Wc7555");
 insert into konemalli values(4, "Wc7865");
 
-GRANT ALL ON projekti.* TO "Heikki"@"localhost" IDENTIFIED BY "phpPass";
+GRANT ALL ON projekti.* TO "Heikki"@"localhost" IDENTIFIED BY "Heikki123";
+
+
+create table huoltotyo(
+id_huolto INT primary key,
+huoltotyo VARCHAR(30)
+) Engine=InnoDB;
+
+insert into huoltotyo values(1, "Fuser");
+insert into huoltotyo values(2, "Siirto-osisto");
+insert into huoltotyo values(3, "Rullat");
+insert into huoltotyo values(4, "Ros");
