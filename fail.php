@@ -1,8 +1,7 @@
 </biv>
-<div id="fail">
-   <h1>Xerox huoltosivusto</h1>
-   <hr>
+<div id="header">
 
+<link rel="stylesheet" href="css/mystyle.css">
      <h3>Sisäänkirjautuminen</h3>
      	<p>
 <br>
@@ -18,31 +17,7 @@
            <input type="submit" name="" value="Kirjaudu">
    <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-  Toteutus H. Lohikoski TVT19KMO Projektityö
 </biv>
 </body>
 </html>
+	<?php include "footer.php"; ?>

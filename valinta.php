@@ -1,6 +1,6 @@
 </biv>
-<div id="valinta">
-
+<div id="header">
+<link rel="stylesheet" href="css/mystyle.css">
    <h1>Xerox huoltosivusto</h1>
    <hr>
 
@@ -22,36 +22,9 @@
                       </select>
            <br>
            <br>
-           <br>
            <input type="submit" name="" value="Hae">
    <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-  Toteutus H. Lohikoski TVT19KMO Projektityö
 </biv>
 </body>
 </html>
+	<?php include "footer.php"; ?>

@@ -1,0 +1,15 @@
+create database projekti;
+
+use projekti;
+
+create table konemalli(
+id_konemalli INT primary key,
+malli VARCHAR(20)
+) Engine=InnoDB;
+
+insert into konemalli values(1, "Wc7245");
+insert into konemalli values(2, "Wc7325");
+insert into konemalli values(3, "Wc7555");
+insert into konemalli values(4, "Wc7865");
+
+GRANT ALL ON projekti.* TO "Heikki"@"localhost" IDENTIFIED BY "phpPass";

@@ -1,9 +1,8 @@
 </biv>
-<div id="valinta">
-
+<div id="header">
    <h1>Xerox huoltosivusto</h1>
    <hr>
-
+<link rel="stylesheet" href="css/mystyle.css">
 
      <h3>Valitse konemalli ja tehtävä työ</h3>
      	<p>
@@ -27,26 +26,7 @@
            <br>
            <textarea name="name" rows="8" cols="80"></textarea>
    <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<hr>
-  Toteutus H. Lohikoski TVT19KMO Projektityö
 </biv>
 </body>
 </html>
+	<?php include "footer.php"; ?>
