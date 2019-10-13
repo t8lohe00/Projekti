@@ -1,6 +1,4 @@
-</biv>
-<div id="header">
-<link rel="stylesheet" href="css/mystyle.css">
+<?php include "menu.php"; ?>
    <h1>Xerox huoltosivusto</h1>
    <hr>
 
@@ -10,15 +8,18 @@
 <br>
      		<form class="" action="show_post.php" method="post">
           <select class="" name="malli">
-                  <option value="78xx">Wc78xx</option>
-          				<option value="75xx">Wc75xx</option>
+                  <option value="7245">Wc7245</option>
+                  <option value="7325">Wc7325</option>
+                  <option value="7555">Wc7555</option>
+          				<option value="7865">Wc7865</option>
                 </select>
                 <br>
                 <br>
           <select class="" name="työ">
-                        <option value="fuser">Fuser huolto</option>
+                        <option value="Fuser">Fuser</option>
                 				<option value="belt">Siirto-osisto</option>
-                				<option value="rullat">Syöttörullat</option>
+                				<option value="Rullat">Rullat</option>
+                				<option value="Ros">Ros</option>
                       </select>
            <br>
            <br>
